@@ -1,0 +1,62 @@
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Ismail Ouazzani – Blog</title>
+    <link>https://example.org/blog/</link>
+    <description>Recent content in Blog on Ismail Ouazzani</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 03 Jan 2020 00:00:00 +0000</lastBuildDate>
+    
+	  <atom:link href="https://example.org/blog/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+      
+        
+      
+    
+    
+    <item>
+      <title>On the Number of Near-Orthogonal Vectors in n-Dimensional Space</title>
+      <link>https://example.org/blog/almostortho/</link>
+      <pubDate>Fri, 03 Jan 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.org/blog/almostortho/</guid>
+      <description>
+        
+        
+        &lt;p&gt;Hello.&lt;/p&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>How to fine-tune InternVL2 on a custom dataset</title>
+      <link>https://example.org/blog/finetune-internvl/</link>
+      <pubDate>Thu, 02 Jan 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.org/blog/finetune-internvl/</guid>
+      <description>
+        
+        
+        &lt;p&gt;Hello.&lt;/p&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>The science of Quesadilla</title>
+      <link>https://example.org/blog/quesadilla/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.org/blog/quesadilla/</guid>
+      <description>
+        
+        
+        &lt;p&gt;Hello quesadilla&lt;/p&gt;
+&lt;p&gt;A&lt;/p&gt;
+
+      </description>
+    </item>
+    
+  </channel>
+</rss>
