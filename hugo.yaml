@@ -1,0 +1,22 @@
+baseURL: https://example.org/
+languageCode: en-us
+title: Ismail Ouazzani
+theme: hextra
+
+menu:
+  main:
+    - identifier: projects
+      name: Projects
+      pageRef: /projects
+      weight: 1
+    - identifier: blog
+      name: Blog
+      pageRef: /blog
+      weight: 2
+
+blog:
+  list:
+    displayTags: true
+    # date | lastmod | publishDate | title | weight
+    sortBy: date
+    sortOrder: desc # or "asc"
