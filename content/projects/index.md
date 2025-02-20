@@ -13,23 +13,16 @@ layout: wide
 
 {{< cards >}}
   {{< card
-        link=""
-        title="Benchmarking Robot Performance with a Vision Language Model"
+        link="../robosuccessvlm"
+        title="Automating Robot Success Classification with Vision-Language Models"
         image="/images/robovlmarchi.png"
       imageStyle="object-fit:cover; asp  ect-ratio:16/9;"
   >}}
 
   {{< card
-        link="https://github.com/jonaspleyer/cellular_raza"
+        link="../atomicai"
         title="Atomic Chess AI"
-        image="https://github.com/user-attachments/assets/f24c6455-b70a-419b-b025-e3d60101b673"
-        imageStyle="object-fit:cover; aspect-ratio:16/9;"
-  >}}
-
-  {{< card
-        link="https://github.com/mightymoud/sidekick"
-        title="GeoGuesser but for radios"
-        image="/images/radioguesser.png"
+        image="/images/atomic.png"
         imageStyle="object-fit:cover; aspect-ratio:16/9;"
   >}}
 
