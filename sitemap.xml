@@ -32,6 +32,10 @@
     <loc>https://example.org/blog/quesadilla/</loc>
     <lastmod>2020-01-01T00:00:00+00:00</lastmod>
   </url><url>
+    <loc>https://example.org/atomicai/</loc>
+  </url><url>
+    <loc>https://example.org/robosuccessvlm/</loc>
+  </url><url>
     <loc>https://example.org/categories/</loc>
   </url><url>
     <loc>https://example.org/projects/</loc>
