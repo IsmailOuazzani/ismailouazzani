@@ -5,7 +5,6 @@
     <description>Recent content in Cooking on Ismail Ouazzani</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 01 Jan 2020 00:00:00 +0000</lastBuildDate>
     
 	  <atom:link href="http://localhost:1313/tags/cooking/index.xml" rel="self" type="application/rss+xml" />
     
@@ -14,21 +13,6 @@
         
       
     
-    
-    <item>
-      <title>The science of Quesadilla</title>
-      <link>http://localhost:1313/blog/quesadilla/</link>
-      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
-      
-      <guid>http://localhost:1313/blog/quesadilla/</guid>
-      <description>
-        
-        
-        &lt;p&gt;Hello quesadilla&lt;/p&gt;
-&lt;p&gt;A&lt;/p&gt;
-
-      </description>
-    </item>
     
   </channel>
 </rss>

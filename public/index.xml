@@ -14,48 +14,5 @@
       
     
     
-    <item>
-      <title>On the Number of Near-Orthogonal Vectors in n-Dimensional Space</title>
-      <link>http://localhost:1313/blog/almostortho/</link>
-      <pubDate>Fri, 03 Jan 2020 00:00:00 +0000</pubDate>
-      
-      <guid>http://localhost:1313/blog/almostortho/</guid>
-      <description>
-        
-        
-        &lt;p&gt;Hello.&lt;/p&gt;
-
-      </description>
-    </item>
-    
-    <item>
-      <title>How to fine-tune InternVL2 on a custom dataset</title>
-      <link>http://localhost:1313/blog/finetune-internvl/</link>
-      <pubDate>Thu, 02 Jan 2020 00:00:00 +0000</pubDate>
-      
-      <guid>http://localhost:1313/blog/finetune-internvl/</guid>
-      <description>
-        
-        
-        &lt;p&gt;Hello.&lt;/p&gt;
-
-      </description>
-    </item>
-    
-    <item>
-      <title>The science of Quesadilla</title>
-      <link>http://localhost:1313/blog/quesadilla/</link>
-      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
-      
-      <guid>http://localhost:1313/blog/quesadilla/</guid>
-      <description>
-        
-        
-        &lt;p&gt;Hello quesadilla&lt;/p&gt;
-&lt;p&gt;A&lt;/p&gt;
-
-      </description>
-    </item>
-    
   </channel>
 </rss>

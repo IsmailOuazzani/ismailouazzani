@@ -1,7 +1,7 @@
 baseURL: https://example.org/
 languageCode: en-us
 title: Ismail Ouazzani
-theme: hextra
+theme: ["hugo-video", "hextra"]
 
 menu:
   main:
@@ -20,3 +20,7 @@ blog:
     # date | lastmod | publishDate | title | weight
     sortBy: date
     sortOrder: desc # or "asc"
+
+params:
+  theme:
+    default: light

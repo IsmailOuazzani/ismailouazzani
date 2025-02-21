@@ -5,7 +5,6 @@
     <description>Recent content in Tutorial on Ismail Ouazzani</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 02 Jan 2020 00:00:00 +0000</lastBuildDate>
     
 	  <atom:link href="http://localhost:1313/tags/tutorial/index.xml" rel="self" type="application/rss+xml" />
     
@@ -14,20 +13,6 @@
         
       
     
-    
-    <item>
-      <title>How to fine-tune InternVL2 on a custom dataset</title>
-      <link>http://localhost:1313/blog/finetune-internvl/</link>
-      <pubDate>Thu, 02 Jan 2020 00:00:00 +0000</pubDate>
-      
-      <guid>http://localhost:1313/blog/finetune-internvl/</guid>
-      <description>
-        
-        
-        &lt;p&gt;Hello.&lt;/p&gt;
-
-      </description>
-    </item>
     
   </channel>
 </rss>
