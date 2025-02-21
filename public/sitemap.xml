@@ -15,16 +15,8 @@
   </url><url>
     <loc>http://localhost:1313/categories/</loc>
   </url><url>
-    <loc>http://localhost:1313/tags/cooking/</loc>
-  </url><url>
-    <loc>http://localhost:1313/tags/machine-learning/</loc>
-  </url><url>
-    <loc>http://localhost:1313/tags/math/</loc>
-  </url><url>
     <loc>http://localhost:1313/projects/</loc>
   </url><url>
     <loc>http://localhost:1313/tags/</loc>
-  </url><url>
-    <loc>http://localhost:1313/tags/tutorial/</loc>
   </url>
 </urlset>
