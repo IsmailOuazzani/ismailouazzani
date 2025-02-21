@@ -1,5 +1,5 @@
 ---
-title: Automating Robot Success Classification with Vision-Language Models
+title: Automic Chess AI
 toc: false
 ---
 
