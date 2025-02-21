@@ -5,39 +5,18 @@
     <loc>https://example.org/</loc>
     <lastmod>2024-12-16T00:12:12-05:00</lastmod>
   </url><url>
-    <loc>https://example.org/blog/</loc>
-    <lastmod>2020-01-03T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://example.org/tags/math/</loc>
-    <lastmod>2020-01-03T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://example.org/blog/almostortho/</loc>
-    <lastmod>2020-01-03T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://example.org/tags/</loc>
-    <lastmod>2020-01-03T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://example.org/blog/finetune-internvl/</loc>
-    <lastmod>2020-01-02T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://example.org/tags/machine-learning/</loc>
-    <lastmod>2020-01-02T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://example.org/tags/tutorial/</loc>
-    <lastmod>2020-01-02T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://example.org/tags/cooking/</loc>
-    <lastmod>2020-01-01T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://example.org/blog/quesadilla/</loc>
-    <lastmod>2020-01-01T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>https://example.org/atomicai/</loc>
   </url><url>
     <loc>https://example.org/robosuccessvlm/</loc>
   </url><url>
+    <loc>https://example.org/robotarm/</loc>
+  </url><url>
+    <loc>https://example.org/blog/</loc>
+  </url><url>
     <loc>https://example.org/categories/</loc>
   </url><url>
     <loc>https://example.org/projects/</loc>
+  </url><url>
+    <loc>https://example.org/tags/</loc>
   </url>
 </urlset>
