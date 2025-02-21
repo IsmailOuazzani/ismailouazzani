@@ -4,5 +4,3 @@ toc: false
 ---
 
 
-
-<!-- {{< video src="armsim.mp4" >}} -->
