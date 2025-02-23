@@ -20,7 +20,7 @@ layout: wide
   >}}
 
   {{< card
-        link="../atomicai"
+        link="atomicai"
         title="Atomic Chess AI"
         image="/images/atomic.png"
         imageStyle="object-fit:cover; aspect-ratio:16/9;"

@@ -1,7 +1,11 @@
 ---
 title: Automic Chess AI
 toc: false
+cascade: 
+    type: blog
 ---
+
+### Introduction
 
 I built AtomicAI, an AI that plays Atomic Chess, a variant of regular chess where captured pieces explode. The goal was to create a deep learning-based evaluation function that rates board positions and helps a chess engine make better moves.
 
