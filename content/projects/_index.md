@@ -28,7 +28,7 @@ layout: wide
 
   {{< card
         link="kukapickandplace"
-        title="Pick and Place with a Kuka Robot rm"
+        title="Pick and Place with a Kuka Robot Arm"
         image="kukapickandplace/kukarobot.jpeg"
         imageStyle="object-fit:cover; aspect-ratio:16/9;"
   >}}
