@@ -13,7 +13,7 @@ layout: wide
 
 {{< cards >}}
   {{< card
-        link="../robosuccessvlm"
+        link="robosuccessvlm"
         title="Automating Robot Success Classification with Vision-Language Models"
         image="/images/robovlmarchi.png"
       imageStyle="object-fit:cover; asp  ect-ratio:16/9;"

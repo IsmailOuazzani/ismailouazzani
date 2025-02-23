@@ -18,4 +18,7 @@ The robot followed a predefined trajectory, ensuring it avoided obstacles and su
 ### Demo
 {{< video src="demo.mp4"  width="400px" muted="true" autoplay="true" loop="true">}}
 
+### Code
+{{< card link="https://github.com/IsmailOuazzani/ECE470" title="View on Github" icon="github" >}}
+
 
