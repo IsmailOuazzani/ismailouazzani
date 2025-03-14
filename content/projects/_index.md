@@ -4,6 +4,24 @@ toc: false
 layout: wide
 ---
 
+# Failed Startups
+{{< cards >}}
+  {{< card
+        link="forestify"
+        title="Forestify: Help farmers recover quickly when weather ruins their crops"
+        image="forestify/forestify.png"
+      imageStyle="object-fit:cover; asp  ect-ratio:16/9;"
+  >}}
+  {{< card
+      link="splatchat"
+      title="Splatchat: Messaging app for 3d photos"
+      image="splatchat/splatchatwide.png"
+    imageStyle="object-fit:cover; asp  ect-ratio:16/9;"
+>}}
+{{< /cards >}}
+
+
+
 # Projects
 
 {{< cards >}}
@@ -30,13 +48,5 @@ layout: wide
 
 {{< /cards >}}
 
-# Failed Startups
-{{< cards >}}
-  {{< card
-        link="forestify"
-        title="Forestify: Help farmers recover quickly when weather ruins their crops"
-        image="forestify/forestify.png"
-      imageStyle="object-fit:cover; asp  ect-ratio:16/9;"
-  >}}
-{{< /cards >}}
+
 
