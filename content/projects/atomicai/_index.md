@@ -1,5 +1,5 @@
 ---
-title: Automic Chess AI
+title: Atomic Chess AI
 toc: false
 cascade: 
     type: blog

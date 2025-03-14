@@ -1,15 +1,10 @@
 ---
-title: Projects
-description: "Open source projects powered by Hextra"
+title: 
 toc: false
 layout: wide
 ---
 
-<div class="hx-mt-4"></div>
-
-<p class="hx-mb-12 hx-text-center hx-text-lg hx-text-gray-500 dark:hx-text-gray-400">
-
-</p>
+# Projects
 
 {{< cards >}}
   {{< card
@@ -34,3 +29,14 @@ layout: wide
   >}}
 
 {{< /cards >}}
+
+# Failed Startups
+{{< cards >}}
+  {{< card
+        link="forestify"
+        title="Forestify: Help farmers recover quickly when weather ruins their crops"
+        image="forestify/forestify.png"
+      imageStyle="object-fit:cover; asp  ect-ratio:16/9;"
+  >}}
+{{< /cards >}}
+
