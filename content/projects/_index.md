@@ -4,7 +4,7 @@ toc: false
 layout: wide
 ---
 
-# Failed Startups
+# Attempted Startups
 {{< cards >}}
   {{< card
         link="forestify"
