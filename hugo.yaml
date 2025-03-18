@@ -5,14 +5,32 @@ theme: ["hugo-video", "hextra"]
 
 menu:
   main:
-    - identifier: projects
-      name: Projects
-      pageRef: /projects
-      weight: 1
+    # - identifier: projects
+    #   name: Projects
+    #   pageRef: /projects
+    #   weight: 1
     # - identifier: blog
     #   name: Blog
     #   pageRef: /blog
     #   weight: 2
+    - identifier: github
+      name: GitHub
+      url: "https://github.com/IsmailOuazzani"
+      weight: 2
+      params:
+        icon: github
+    - identifier: linkedin
+      name: LinkedIn
+      url: "https://www.linkedin.com/in/ismailouazzani/"
+      weight: 3
+      params:
+        icon: linkedin
+    - identifier: resume
+      name: Resume
+      url: "/ismail_ouazzani_resume.pdf"
+      weight: 4
+      params:
+        icon: document-text
 
 services:
   googleAnalytics:
