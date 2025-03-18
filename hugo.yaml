@@ -26,5 +26,9 @@ blog:
     sortOrder: desc # or "asc"
 
 params:
+  navbar:
+    displayLogo: false
+    logo:
+      link: /projects
   theme:
     default: light
