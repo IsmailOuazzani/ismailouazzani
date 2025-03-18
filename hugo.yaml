@@ -46,7 +46,5 @@ blog:
 params:
   navbar:
     displayLogo: false
-    logo:
-      link: /projects
   theme:
     default: light
